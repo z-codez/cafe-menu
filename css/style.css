@@ -33,3 +33,21 @@ body {
 h1, h2, p {
   text-align: center;
 }
+
+
+.item p {
+  display: inline-block;
+  background-color: red;
+}
+
+.flavor {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+
